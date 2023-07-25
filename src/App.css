@@ -65,6 +65,7 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   border-radius: 5px;
+  
 }
 
 .card {
@@ -101,21 +102,26 @@ span {
 
 .fa-minus {
   background-color: #5cbecd;
+  color: white;
 }
 .fa-plus {
   background-color: gray;
+  color: white;
 }
 
 .fa-trash-can {
   background-color: #d15a66;
+  color: white;
 }
 
 .btn-primary {
   background-color: #4da5fc;
+  color: white;
 }
 
 .btn-success {
   background-color: #28a745;
+  color: white;
 }
 
 
